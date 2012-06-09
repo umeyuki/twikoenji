@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  span: MyString
+  priority: 1
+  added_at: 2012-06-09 22:53:41
+
+two:
+  title: MyString
+  span: MyString
+  priority: 1
+  added_at: 2012-06-09 22:53:41
